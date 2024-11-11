@@ -369,7 +369,7 @@
 
 /* Ensure proper spacing between sections */
 .filter-section:not(:last-child) {
-    margin-bottom: 24px;
+    margin-bottom: 4px;
 }
 
         /* Booking Modal Styles */
