@@ -363,13 +363,13 @@
     border-radius: 12px;
     width: 100%;
     max-width: 450px;
-    border: 1px solid var(--primary-color);
+    border: 10px solid var(--primary-color);
     position: relative;
 }
 
 /* Ensure proper spacing between sections */
 .filter-section:not(:last-child) {
-    margin-bottom: 4px;
+    margin-bottom: 7px;
 }
 
         /* Booking Modal Styles */
