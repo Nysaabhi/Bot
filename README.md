@@ -363,7 +363,7 @@
     border-radius: 12px;
     width: 100%;
     max-width: 450px;
-    border: 10px solid var(--primary-color);
+    border: 4px solid var(--primary-color);
     position: relative;
 }
 
